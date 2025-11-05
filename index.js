@@ -1,0 +1,1 @@
+const MY_FIRST_CONST = "text"
